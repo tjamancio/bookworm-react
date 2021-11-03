@@ -23,7 +23,7 @@
     "reselector": "^0.12.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.84.0",
-    "validator": "^10.10.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
